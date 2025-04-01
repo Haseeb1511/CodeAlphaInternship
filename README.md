@@ -1,7 +1,7 @@
 # CodeAlphaInternship
 
 This Repository contain CodeAlpha March 2025 1-Month Internship Tasks
-## Credit SCoring Model
+## Credit Scoring Model
  Develop a credit scoring model to predict the
  creditworthiness of individuals based on historical
  financial data. Utilize classification algorithms and
